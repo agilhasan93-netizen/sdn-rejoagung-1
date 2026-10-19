@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPTD SPF SDN Rejoagung 1 - Cerdas, Berkarakter, Berprestasi</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Google Fonts (Poppins) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body { font-family: 'Poppins', sans-serif; }
+    .scroll-smooth { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased scroll-smooth">
+
+  <!-- NAVBAR -->
+  <nav class="sticky top-0 z-50 bg-white/90 backdrop-blur-md shadow-sm border-b border-slate-100">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-20 items-center">
+        <div class="flex items-center gap-3">
+          <img src="logo_sdn_rejoagung_1-removebg-preview.png" alt="Logo SDN Rejoagung 1" class="h-12 w-auto">
+          <div>
+            <span class="text-xs font-semibold tracking-wider text-blue-600 uppercase block">UPTD SPF</span>
+            <span class="text-lg font-bold text-slate-900 leading-tight block">SDN REJOAGUNG 1</span>
+          </div>
+        </div>
+        <div class="hidden md:flex items-center gap-8 font-medium text-slate-600">
+          <a href="#beranda" class="hover:text-blue-600 transition">Beranda</a>
+          <a href="#sambutan" class="hover:text-blue-600 transition">Sambutan</a>
+          <a href="#visi-misi" class="hover:text-blue-600 transition">Visi & Misi</a>
+          <a href="#fasilitas" class="hover:text-blue-600 transition">Fasilitas</a>
+          <a href="#ekstrakurikuler" class="hover:text-blue-600 transition">Ekstrakurikuler</a>
+          <a href="#lokasi" class="bg-blue-600 text-white px-5 py-2.5 rounded-full hover:bg-blue-700 transition shadow-md shadow-blue-200">Lokasi</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO SECTION -->
+  <section id="beranda" class="relative bg-gradient-to-b from-blue-50 to-slate-50 py-12 lg:py-20 overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-3xl mx-auto mb-10">
+        <span class="bg-blue-100 text-blue-700 text-sm font-semibold px-4 py-1.5 rounded-full inline-block mb-4">
+          Selamat Datang
+        </span>
+        <h1 class="text-3xl md:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
+          UPTD SPF SDN REJOAGUNG 1
+        </h1>
+        <p class="text-lg text-slate-600 mt-4">
+          Kecamatan Sumberwringin, Kabupaten Bondowoso — <span class="font-semibold text-blue-600">Cerdas, Berkarakter, dan Berprestasi</span>.
+        </p>
+      </div>
+
+      <div class="rounded-2xl overflow-hidden shadow-2xl border border-slate-200/80 bg-white">
+        <img src="Gemini_Generated_Image_mddst8mddst8mdds.jpeg" alt="Banner UPTD SPF SDN Rejoagung 1" class="w-full h-auto object-cover">
+      </div>
+    </div>
+  </section>
+
+  <!-- SAMBUTAN KEPALA SEKOLAH -->
+  <section id="sambutan" class="py-16 bg-white border-y border-slate-100">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-10 items-center">
+        
+        <!-- Foto Kepala Sekolah -->
+        <div class="md:col-span-4 flex flex-col items-center">
+          <div class="relative group">
+            <div class="absolute -inset-1 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl blur opacity-25 group-hover:opacity-40 transition"></div>
+            <img src="WhatsApp Image 2026-10-19 at 08.17.34.jpeg" alt="Kepala Sekolah - Djunaedi" class="relative rounded-2xl shadow-xl w-64 md:w-full object-cover">
+          </div>
+          <div class="text-center mt-4">
+            <h3 class="text-xl font-bold text-slate-900">Djunaedi</h3>
+            <p class="text-sm text-slate-500 font-medium">Kepala UPTD SPF SDN Rejoagung 1</p>
+          </div>
+        </div>
+
+        <!-- Teks Sambutan -->
+        <div class="md:col-span-8 space-y-4">
+          <div class="inline-flex items-center gap-2 text-blue-600 font-semibold text-sm">
+            <i class="fa-solid fa-quote-left"></i> Sambutan
+          </div>
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900">Selamat Datang di Website Resmi Sekolah Kami</h2>
+          <p class="text-slate-600 leading-relaxed"><strong>Assalamu’alaikum Warahmatullahi Wabarakatuh,</strong></p>
+          <p class="text-slate-600 leading-relaxed">
+            Pendidikan adalah pondasi utama dalam membentuk generasi penerus bangsa yang tidak hanya cerdas secara intelektual, tetapi juga memiliki akhlak mulia dan karakter yang kuat. Di UPTD SPF SDN Rejoagung 1, kami berkomitmen untuk memberikan lingkungan belajar yang kondusif, aman, dan menyenangkan bagi seluruh siswa-siswi kami.
+          </p>
+          <p class="text-slate-600 leading-relaxed">
+            Melalui sinergi antara guru, siswa, orang tua, dan masyarakat, kami terus berupaya mengintegrasikan pembelajaran akademik, pembentukan karakter spiritual, serta pengembangan bakat minat melalui berbagai kegiatan ekstrakurikuler.
+          </p>
+          <p class="text-slate-600 leading-relaxed font-semibold text-blue-900 pt-2">
+            Wassalamu’alaikum Warahmatullahi Wabarakatuh.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- VISI & MISI -->
+  <section id="visi-misi" class="py-16 bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <h2 class="text-3xl font-bold text-slate-900">Visi & Misi Sekolah</h2>
+        <p class="text-slate-600 mt-2">Pedoman kami dalam mendidik generasi penerus bangsa</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- VISI CARD -->
+        <div class="md:col-span-1 bg-gradient-to-br from-blue-600 to-blue-800 text-white p-8 rounded-2xl shadow-xl flex flex-col justify-between">
+          <div>
+            <div class="w-12 h-12 bg-white/10 backdrop-blur rounded-xl flex items-center justify-center text-2xl mb-6">
+              <i class="fa-solid fa-bullseye"></i>
+            </div>
+            <h3 class="text-xl font-bold mb-3">Visi Sekolah</h3>
+            <p class="text-blue-100 italic leading-relaxed text-lg">
+              "Terwujudnya Peserta Didik yang Cerdas, Berkarakter, Berakhlak Mulia, dan Berprestasi Berlandaskan Iman dan Taqwa."
+            </p>
+          </div>
+          <div class="mt-8 pt-4 border-t border-white/20 text-xs text-blue-200">
+            UPTD SPF SDN Rejoagung 1
+          </div>
+        </div>
+
+        <!-- MISI CARD -->
+        <div class="md:col-span-2 bg-white p-8 rounded-2xl shadow-md border border-slate-200/60">
+          <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center text-2xl mb-6">
+            <i class="fa-solid fa-list-check"></i>
+          </div>
+          <h3 class="text-xl font-bold text-slate-900 mb-6">Misi Sekolah</h3>
+          <ul class="space-y-4">
+            <li class="flex items-start gap-3">
+              <span class="w-6 h-6 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center text-sm font-bold shrink-0 mt-0.5">1</span>
+              <div>
+                <strong class="text-slate-800 block">Pendidikan Berkualitas</strong>
+                <p class="text-sm text-slate-600">Menyelenggarakan kegiatan pembelajaran yang efektif, inovatif, dan menyenangkan untuk mengembangkan potensi akademis secara optimal.</p>
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="w-6 h-6 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center text-sm font-bold shrink-0 mt-0.5">2</span>
+              <div>
+                <strong class="text-slate-800 block">Pembentukan Karakter</strong>
+                <p class="text-sm text-slate-600">Menanamkan nilai-nilai keagamaan, kedisiplinan, dan budi pekerti luhur dalam kehidupan sehari-hari.</p>
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="w-6 h-6 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center text-sm font-bold shrink-0 mt-0.5">3</span>
+              <div>
+                <strong class="text-slate-800 block">Pengembangan Bakat</strong>
+                <p class="text-sm text-slate-600">Memfasilitasi minat dan bakat peserta didik melalui berbagai kegiatan ekstrakurikuler non-akademik.</p>
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="w-6 h-6 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center text-sm font-bold shrink-0 mt-0.5">4</span>
+              <div>
+                <strong class="text-slate-800 block">Lingkungan Sehat & Nyaman</strong>
+                <p class="text-sm text-slate-600">Mewujudkan lingkungan sekolah yang bersih, sehat, aman, dan ramah anak guna menunjang proses belajar mengajar.</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FASILITAS -->
+  <section id="fasilitas" class="py-16 bg-white border-b border-slate-100">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <h2 class="text-3xl font-bold text-slate-900">Fasilitas Sekolah</h2>
+        <p class="text-slate-600 mt-2">Sarana pendukung kenyamanan dan kesehatan siswa</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <!-- Gedung & Kelas -->
+        <div class="bg-slate-50 rounded-2xl p-6 border border-slate-200/80 hover:shadow-md transition">
+          <div class="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-xl flex items-center justify-center text-2xl mb-4">
+            <i class="fa-solid fa-school"></i>
+          </div>
+          <h3 class="text-lg font-bold text-slate-900 mb-2">Gedung Utama & Ruang Kelas</h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Ruang belajar yang luas, bersih, dan terawat dengan sirkulasi udara yang baik, menciptakan suasana belajar mengajar yang aman dan kondusif bagi peserta didik.
+          </p>
+        </div>
+
+        <!-- UKS -->
+        <div class="bg-slate-50 rounded-2xl p-6 border border-slate-200/80 hover:shadow-md transition">
+          <div class="w-12 h-12 bg-red-100 text-red-600 rounded-xl flex items-center justify-center text-2xl mb-4">
+            <i class="fa-solid fa-notes-medical"></i>
+          </div>
+          <h3 class="text-lg font-bold text-slate-900 mb-2">Unit Kesehatan Sekolah (UKS)</h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Dilengkapi tempat tidur penanganan darurat, perlengkapan P3K, obat-obatan dasar, serta alat ukur tinggi dan berat badan untuk memantau kesehatan dan tumbuh kembang siswa.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EKSTRAKURIKULER -->
+  <section id="ekstrakurikuler" class="py-16 bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <h2 class="text-3xl font-bold text-slate-900">Kegiatan Ekstrakurikuler</h2>
+        <p class="text-slate-600 mt-2">Mengembangkan bakat, minat, serta kepribadian siswa</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <!-- Hadrah -->
+        <div class="bg-white rounded-2xl p-8 shadow-sm border border-slate-200/80 flex items-start gap-5">
+          <div class="w-14 h-14 bg-amber-100 text-amber-600 rounded-2xl flex items-center justify-center text-2xl shrink-0">
+            <i class="fa-solid fa-drum"></i>
+          </div>
+          <div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Seni Hadrah</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">
+              Wadah seni keagamaan untuk melatih kreativitas, seni musik islami, dan mempererat kebersamaan siswa melalui lantunan shalawat dan tabuhan terbang/rebana.
+            </p>
+          </div>
+        </div>
+
+        <!-- Pramuka -->
+        <div class="bg-white rounded-2xl p-8 shadow-sm border border-slate-200/80 flex items-start gap-5">
+          <div class="w-14 h-14 bg-amber-800/10 text-amber-800 rounded-2xl flex items-center justify-center text-2xl shrink-0">
+            <i class="fa-solid fa-campground"></i>
+          </div>
+          <div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Pramuka</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">
+              Membentuk jiwa kepemimpinan, kemandirian, kedisiplinan, serta semangat gotong royong dan kedisiplinan peserta didik sejak dini.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LOKASI & KONTAK -->
+  <section id="lokasi" class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
+        
+        <!-- Info Kontak -->
+        <div class="md:col-span-5 space-y-6">
+          <div>
+            <span class="text-xs font-semibold tracking-wider text-blue-600 uppercase block">Lokasi & Kontak</span>
+            <h2 class="text-2xl md:text-3xl font-bold text-slate-900">Kunjungi Sekolah Kami</h2>
+            <p class="text-slate-600 text-sm mt-2">Kami terbuka untuk pertanyaan dan silaturahmi.</p>
+          </div>
+
+          <div class="space-y-4">
+            <div class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-blue-50 text-blue-600 rounded-lg flex items-center justify-center shrink-0 mt-1">
+                <i class="fa-solid fa-location-dot"></i>
+              </div>
+              <div>
+                <strong class="text-slate-900 block text-sm">Alamat Lengkap</strong>
+                <p class="text-slate-600 text-sm">Area Sawah/Kebun, Rejo Agung, Kec. Sumberwringin, Kabupaten Bondowoso, Jawa Timur 68287</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-blue-50 text-blue-600 rounded-lg flex items-center justify-center shrink-0 mt-1">
+                <i class="fa-solid fa-building-columns"></i>
+              </div>
+              <div>
+                <strong class="text-slate-900 block text-sm">Status Sekolah</strong>
+                <p class="text-slate-600 text-sm">UPTD SPF Sekolah Dasar Negeri (SDN)</p>
+              </div>
+            </div>
+          </div>
+
+          <a href="https://maps.google.com/?q=SDN+REJOAGUNG+01+Sumberwringin+Bondowoso" target="_blank" class="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition font-medium shadow-lg shadow-blue-100 text-sm">
+            <i class="fa-solid fa-map-location-dot"></i> Buka di Google Maps
+          </a>
+        </div>
+
+        <!-- Map Embed -->
+        <div class="md:col-span-7 h-80 md:h-full min-h-[300px] rounded-2xl overflow-hidden shadow-md border border-slate-200">
+          <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15792.831828723521!2d113.9876229!3d-7.952299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6cf005d52c29d%3A0x60296c7800ebff81!2sSDN%20REJOAGUNG%2001!5e0!3m2!1sid!2sid!4v1710000000000!5m2!1sid!2sid" 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-slate-900 text-slate-400 py-8 border-t border-slate-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm space-y-2">
+      <p>© UPTD SPF SDN Rejoagung 1 Kecamatan Sumberwringin, Kabupaten Bondowoso.</p>
+      <p class="text-xs text-slate-500">Cerdas, Berkarakter, dan Berprestasi.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
